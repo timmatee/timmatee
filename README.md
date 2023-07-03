@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timothy Morgan</h1>
-<h3 align="center">Student & Aspiring Data Scientist</h3>
+<h3 align="center">Welcome to my Github, I am a aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timmatee&label=Profile%20views&color=0e75b6&style=flat" alt="timmatee" /> </p>
 
